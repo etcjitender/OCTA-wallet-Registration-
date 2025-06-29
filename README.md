@@ -3,33 +3,26 @@
 
 📌 CodeSpace - https://github.com/codespaces
 
+## Quick Start
 
-```bash
-curl -fsSL https://bun.sh/install | bash
-source ~/.bashrc
-bun --version
-````
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/octra-labs/wallet-gen.git
+   cd wallet-gen
+   ```
 
----
-
-```bash
-bun install
-```
-
----
-
-
-```bash
-bun run build
-```
-
----
-
-```bash
-bun start
-```
-
-
+2. **Run the wallet generator webserver:**
+   
+   **Linux/macOS:**
+   ```bash
+   chmod +x ./start.sh
+   ./start.sh
+   ```
+   
+   **Windows:**
+   ```bash
+   start.bat
+   ```
 ---
 
 ** Done Now  Back up private key**
