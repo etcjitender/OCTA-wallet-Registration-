@@ -29,7 +29,6 @@ bun run build
 bun start
 ```
 
-> click the **“PORTS”** tab open link under forwarded address in browser
 
 ---
 
