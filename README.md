@@ -1,6 +1,8 @@
 
 # Octra Wallet generation Guide
 
+📌 CodeSpace - https://github.com/codespaces
+
 
 ```bash
 curl -fsSL https://bun.sh/install | bash
@@ -31,7 +33,7 @@ bun start
 
 ---
 
-**Wallet Generated, Back up private key**
+** Done Now  Back up private key**
 
 Faucet  https://faucet.octra.network/
 
