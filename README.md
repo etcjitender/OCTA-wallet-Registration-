@@ -28,6 +28,11 @@
 ** Done Now  Back up private key**
 
 Faucet  https://faucet.octra.network/
+---
+
+Discord - https://discord.gg/b6DGzdd3ph
+
+---
 
 
 #  TASK 1 : TOKEN TRANSFER
@@ -80,12 +85,3 @@ python cli.py send --to oct5ziFzQJkiJFPfcQeuAmp4vhfQgjwb8gyx2W2TZdGhzJm --amount
 
 Send tokens to other Check  explorer: https://octrascan.io/
 
----
-
-
-
-
-
-Discord - https://discord.gg/b6DGzdd3ph
-
----
