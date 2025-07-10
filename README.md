@@ -30,18 +30,15 @@
 Faucet  https://faucet.octra.network/
 
 
-# 🪙 TASK 1 : TOKEN TRANSFER
+#  TASK 1 : TOKEN TRANSFER
 
-### 🔹 STEP 1: Open in Codespace
+###  Open in Codespace
 
-1. Go to 👉 [https://github.com/octra-labs/octra_pre_client](https://github.com/octra-labs/octra_pre_client)
-2. Click the green `Code` button  
-3. Select → `Open with Codespaces` → `+ New codespace`
-4. Wait for the environment to fully load
+ Go to 👉 [https://github.com/octra-labs/octra_pre_client](https://github.com/octra-labs/octra_pre_client)
 
 ---
 
-### 🔹 STEP 2: Install dependencies
+###   Install dependencies
 
 In the Codespace terminal, run:
 
@@ -51,7 +48,7 @@ pip install -r requirements.txt
 
 ---
 
-### 🔹 STEP 3: Create and edit wallet.json
+###  Create and edit wallet.json
 
 Create the wallet file:
 
@@ -61,8 +58,8 @@ cp wallet.json.example wallet.json
 
 Then open the file: wallet.json
 
-Paste your test wallet details (⚠️ never use your real wallet):
-![Wallet Generation](IMG_20250630_110429.png)
+Paste your test wallet details [That you generate Early ] 
+
 
 
 ```
@@ -75,13 +72,13 @@ Paste your test wallet details (⚠️ never use your real wallet):
 
 ---
 
-### 🔹 STEP 4: Send a test transaction
+###  Send a test transaction
 
 ```bash
 python cli.py send --to oct5ziFzQJkiJFPfcQeuAmp4vhfQgjwb8gyx2W2TZdGhzJm --amount 0.01
 ```
 
-🟢 That’s it! You can now access the wallet UI and make transactions to addresses found on the explorer: https://octrascan.io/
+Send tokens to other Check  explorer: https://octrascan.io/
 
 ---
 
